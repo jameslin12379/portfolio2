@@ -1,0 +1,267 @@
+
+
+.bg-lightgray {
+    background-color: rgba(242,242,242,0.7);;
+}
+
+.bg-fa {
+    background-color: #fafafa;
+}
+
+.bg-000 {
+    background-color: #000;
+}
+
+.bg-121217 {
+    background-color: #121217;
+}
+
+.bg-white {
+    background-color: white;
+}
+
+.bg-050d1e {
+    background-color: #050d1e;
+}
+
+.bg-5c6ac4 {
+    background-color: #5c6ac4;
+}
+
+.bd-5c6ac4 {
+    border-color: #5c6ac4;
+}
+
+.orange{
+    color: orange;
+}
+
+.white {
+    color: white;
+}
+
+.width-150 {
+    width: 150px;
+}
+
+.height-150 {
+    height: 150px;
+}
+
+.height-500 {
+    height: 500px;
+}
+
+
+.m-za {
+    margin: 0 auto;
+}
+
+.mb-30 {
+    margin-bottom: 30px;
+}
+
+.mb-15 {
+    margin-bottom: 15px;
+}
+
+.mb-z {
+    margin-bottom: 0;
+}
+
+.mt-30 {
+    margin-top: 30px;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.fs-12 {
+    font-size: 12px;
+}
+
+.fs-20 {
+    font-size: 20px;
+}
+
+.fs-30 {
+    font-size: 30px;
+}
+
+.fs-50 {
+    font-size: 50px;
+}
+
+.pd-15 {
+    padding: 15px;
+}
+
+.ptb-30 {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.pb-15 {
+    padding-bottom: 15px;
+}
+
+.plr-15 {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.pl-0 {
+    padding-left: 0;
+}
+
+.mr-15 {
+    margin-right: 15px;
+}
+
+.mr-0 {
+    margin-right: 0!important;
+}
+
+.mix-blend-mode {
+    mix-blend-mode: multiply;
+}
+
+.jumbotron {
+    background-repeat: no-repeat;
+    background-position: center;
+    /*background-size: 100% 550px;*/
+}
+
+.jumbotron#jb1 {
+    background-size: 100% 100%;
+}
+
+#jb1 {
+    background-image: url("./public/image/hero.jpg");
+}
+
+#jb2 {
+    background-image: url("./public/image/macbookmini.jpg");
+}
+
+#jb3 {
+    background-image: url("./public/image/macbookpro.jpg");
+}
+
+#jb4 {
+    background-image: url("./public/image/macbook.jpg");
+}
+
+#jb5 {
+    background-image: url("./public/image/imac.jpg");
+}
+
+#jb6 {
+    background-image: url("./public/image/compare.jpg");
+}
+
+#jb9 {
+    background-image: url("./public/image/acc.jpg");
+}
+
+#jb11 {
+    background-image: url("./public/image/mojave.jpg");
+}
+
+#jb12 {
+    background-image: url("./public/image/macos.jpg");
+}
+
+#jb13 {
+    background-image: url("./public/image/icloud.jpg");
+}
+
+.br-z {
+    border-radius: 0;
+}
+
+.icon {
+    width: 40px;
+    height: 44px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+}
+
+#delivery {
+    background-image: url("./public/image/delivery.png");
+}
+
+#setup {
+    background-image: url("./public/image/setup.png");
+}
+
+.flex {
+    display: flex;
+}
+
+.jc-center {
+    justify-content: center;
+}
+
+.jc-sb {
+    justify-content: space-between;
+}
+
+.flex-direction-c {
+    flex-direction: column;
+}
+
+.bp-cb {
+    background-position: center bottom;
+}
+
+/*@media (min-width: 992px) {*/
+    /*.collapse > ul {*/
+        /*margin-right: 0 !important;*/
+        /*width: 100%;*/
+        /*justify-content: space-between;*/
+    /*}*/
+
+    /*#brand {*/
+        /*margin-right: 30px;*/
+        /*padding-top: 0;*/
+    /*}*/
+
+    /*#macbookair {*/
+        /*width: 50%;*/
+    /*}*/
+
+
+/*}*/
+
+footer ul {
+    padding-left: 0;
+}
+
+footer ul li{
+    list-style: none;
+}
+
+.italic {
+    font-style: italic;
+}
+
+li.dropdown > a, .nav-item > a, a.navbar-brand {
+    color: white!important;
+    opacity: 0.7;
+}
+
+li.dropdown > a:hover, .nav-item > a:hover, a.navbar-brand:hover {
+    opacity: 1;
+}
+
+button.bd-5c6ac4:hover {
+    background-color: transparent;
+    border-color: #5c6ac4;
+}
+
+body {
+    padding-top: 100px;
+}
